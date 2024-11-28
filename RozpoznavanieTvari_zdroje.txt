@@ -1,0 +1,7 @@
+https://chatgpt.com/c/68854d8c-4846-475f-a2d9-a0df78f19515
+https://github.com/serengil/deepface
+https://www.researchgate.net/figure/The-model-structure-of-the-FaceNet_fig1_339173834
+https://medium.com/mlcrunch/face-detection-using-dlib-hog-198414837945
+https://sefiks.com/2018/08/06/deep-face-recognition-with-keras/
+https://sefiks.com/2018/09/03/face-recognition-with-facenet-in-keras/
+https://jakevdp.github.io/PythonDataScienceHandbook/05.14-image-features.html
